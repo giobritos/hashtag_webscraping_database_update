@@ -1,6 +1,6 @@
 # Projeto de Webscraping com Atualização da Base de Dados
 
-Este é um projeto de automação de webscraping usando a biblioteca Selenium para buscar informações de cotação de moedas estrangeiras (Dólar, Euro) e ouro em sites específicos. Em seguida, atualizamos uma planilha Excel com as novas cotações e os preços de compra e venda dos produtos comercializados pela empresa fictícia com base no projeto idealizado pelo Professor João Paulo Rodrigues de Lira da Hashtag Treinamentos.
+Este é um projeto de automação de webscraping usando a biblioteca Selenium para buscar informações de cotação de moedas estrangeiras (Dólar, Euro) e ouro em sites específicos. Em seguida, atualizamos uma planilha Excel com as novas cotações e os preços de compra e venda dos produtos comercializados pela empresa fictícia. Feito com base no projeto idealizado pelo Professor João Paulo Rodrigues de Lira da Hashtag Treinamentos.
 
 ## Descrição
 
